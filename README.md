@@ -1,3 +1,4 @@
+![Microchip Technology Inc.](docs/microchip_logo.png)
 # VSC8258EV for Win32 (MEPA) using MCP2210-HIDAPI Library
 
 This code uses a library called MCP2210-HIDAPI to be able to run 
